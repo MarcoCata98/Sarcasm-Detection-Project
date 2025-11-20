@@ -1567,8 +1567,7 @@
 1558,"Ho mangiato in una nuova trattoria, non mi è piaciuta molto",0
 1559,"Il mio treno è arrivato con soli 32 minuti di ritardo, più veloce della luce",1
 1560,"Per una volta il treno è arrivato puntuale, giornata iniziata bene.",0
-
-1561,"Settimana che il corriere dice che “sta arrivando”. Deve aver preso la strada panoramica del mondo.",1
+1561,"il corriere dice che “sta arrivando”. Deve aver preso la strada panoramica del mondo.",1
 1562,"Sto seguendo la partita col telefono in mano, speriamo che oggi combinino qualcosa di buono.",0
 1563,"Mi chiedo quale scusa tireranno fuori stavolta per il ritardo del pacco, forse un’allineamento dei pianeti.",1
 1564,"Ho iniziato un nuovo sketch, mi piace come sta venendo la luce nei dettagli.",0
@@ -1576,18 +1575,725 @@
 1566,"Dopo anni all’estero, tornare a casa e sentire un ‘buongiorno’ sincero in negozio fa proprio bene.",0
 1567,"Il meteo oggi sembra deciso a rovinare ogni programma possibile. Notevole dedizione.",1
 1568,"Mi sono fatto un panino enorme e neanche mi vergogno, era perfetto.",0
-1569,"Sì, l’accoppiata Harry-Ginny… nessuno sospettava un plot twist più noioso di così.",1
+1569,"Sì, l’accoppiata Harry-Ginny… un plot twist molto noioso.",0
 1570,"Arrivati finalmente alla pausa: serve davvero per riorganizzare la squadra.",0
 1571,"Il pacco è fermo nello stesso punto da tre giorni. Credo si sia affezionato al magazzino.",1
 1572,"Che bello rivedere vecchi amici e ritrovare le stesse energie di una volta.",0
-1573,"Il governo che introduce nuove regole proprio quando devo partire… che coincidenza spettacolare.",1
+1573,"Il governo che introduce nuove regole proprio quando devo partire, che coincidenza.",1
 1574,"La squadra giovanile oggi ha giocato bene: c’è talento vero lì dentro.",0
-1575,"L’ufficio postale mi ha detto che il ritardo è ‘inspiegabile’. Beh, almeno siamo sinceri.",1
+1575,"L’ufficio postale mi ha detto che il ritardo è ‘inspiegabile’. almeno sono sinceri.",1
 1576,"Ho finalmente sistemato la cucina: ora sembra un posto civile.",0
-1577,"Ogni volta che provo a sedermi sul divano, il gatto decide che è il suo trono personale. Perfetto tempismo felino.",1
+1577,"Ogni volta che provo a sedermi sul divano, il gatto decide che è il suo trono personale.",1
 1578,"Stasera c’è una bella atmosfera in città, quasi non sembra inverno.",0
-1579,"È stato gentile farmi notare che camminavo con la mascherina al contrario. Una vera opera d’arte moderna.",1
+1579,"È stato gentile farmi notare che camminavo con il cappello al contrario, non me ne ero accorto",1
 1580,"Sto pensando di fare un viaggio breve nel weekend, mi farebbe staccare un po’ la testa.",0
-
-
-
+1581,"Incredibile come tu riesca a cadere anche da fermo, una dote rara sulle piste.",1
+1582,"La neve oggi è perfetta, ci facciamo due discese e poi pausa cioccolata calda.",0
+1583,"Hai preso la nera? Coraggioso… o semplicemente non hai letto il cartello.",1
+1584,"Raga che vista pazzesca da qui su, valeva la sveglia presto.",0
+1585,"Complimenti, sei l’unico che riesce a prendere lo skilift al contrario.",1
+1586,"Facciamo un giro tranquillo, così scaldiamo un po’ le gambe.",0
+1587,"hai frenato dopo cento metri… stai quasi imparando a non investire la gente.",1
+1588,"La neve fresca è perfetta, oggi ci divertiamo davvero.",0
+1589,"A giudicare dalla tua traiettoria, stavi cercando un parcheggio sulla pista.",1
+1590,"Quando scendiamo tutti insieme è sempre la parte più bella della giornata.",0
+1591,"Hai messo così tanta cera sugli sci che quasi ti servono i freni a mano.",1
+1592,"Bella discesa ragazzi, stiamo prendendo un bel ritmo.",0
+1593,"Sei riuscito a perdere lo skipass in due minuti, nuovo record personale.",1
+1594,"Il rifugio in cima sembra perfetto per pranzo, che ne dite?",0
+1595,"A guardarti scendere sembra un tutorial su come NON fare una curva.",1
+1596,"La neve in quota è molto più morbida, facciamo lì la prossima run.",0
+1597,"Hai saltato la gobba con così poca grazia che pensavo stessi salutando l’elicottero.",1
+1598,"Il sole oggi spacca, giornata perfetta per sciare.",0
+1599,"Se continui a frenare così, finisci la pista domani mattina.",1
+1600,"Prendiamo la seggiovia a sinistra, c’è meno fila.",0
+1601,"Ti giuro, ogni tua caduta potrebbe avere una colonna sonora drammatica.",1
+1602,"Ragazzi, facciamo una foto tutti insieme prima di scendere.",0
+1603,"Non so come fai, ma riesci a cadere anche mentre prendi il selfie.",1
+1604,"Andiamo verso il versante nord, dicono sia meno affollato.",0
+1605,"Quel tuo salto è stato talmente goffo che il maestro ha fatto finta di non vedere.",1
+1606,"Le piste sono pulite, possiamo spingere un po’ di più ora.",0
+1607,"Ti muovi sulle piste come se stessi cercando il Wi-Fi, tutto a zigzag.",1
+1608,"Beviamo qualcosa al rifugio? Ci sta una pausa prima dell’ultima discesa.",0
+1609,"Il modo in cui tieni le bacchette farebbe piangere anche lo sci club dei principianti.",1
+1610,"Ok dai, ultima run e poi si torna giù con calma.",0
+1611,"Bro, scii così dritto che sembri un carrello dell’Esselunga senza ruote.",1
+1612,"Che giornata assurda, neve top e risate infinite.",0
+1613,"Se ti vedono i maestri, ti chiedono di restituire la tessera da sciatore principiante.",1
+1614,"Raga giuro, le foto in cima sono venute una bomba.",0
+1615,"Hai fatto una curva così larga che hai sfiorato il confine con l’Austria.",1
+1616,"Domani ci torniamo presto, oggi è stata una figata.",0
+1617,"Ti sei cappottato così forte che la neve sta ancora ridendo.",1
+1618,"Il panorama dalla rossa era stupendo, mai visto così limpido.",0
+1619,"Quando scii tu, perfino i bambini col bob ti superano con delicatezza.",1
+1620,"Che bello stare in montagna con voi, ci voleva proprio.",0
+1621,"Hai preso una gobba e sei sparito per tre secondi: pensavo stessi migrando a caso.",1
+1622,"Le piste erano tirate da paura, giornata perfetta.",0
+1623,"Ogni volta che provi a frenare partono valanghe spontanee.",1
+1624,"Il rifugio dove abbiamo mangiato era davvero ottimo.",0
+1625,"Ti sei seduto sulla seggiovia come se non lo avessi mai visto un sedile in vita tua.",1
+1626,"La neve fresca di oggi era proprio bella da sciare.",0
+1627,"Hai fatto più cadute tu che metri di pista, ormai hai un abbonamento col suolo.",1
+1628,"La cabinovia con il tramonto era spettacolare.",0
+1629,"Quando ti ho visto scendere credevo stessi provando una nuova disciplina olimpica: il panico sincronizzato.",1
+1630,"Che giornata ragazzi, non vedevo l’ora di staccare così.",0
+1631,"Hai scelto un ristorante così bello che ho paura di toccare i bicchieri e fare danni.",1
+1632,"L’atmosfera qui è perfetta, si sta benissimo insieme.",0
+1633,"Il cameriere ci ha portato il pane caldo, sembra un’opera d’arte.",1
+1634,"Sono contento che siamo usciti, mi mancava una serata così tranquilla.",0
+1635,"Il menù è talmente lungo che mi serve un cannocchiale per trovare cosa voglio.",1
+1636,"Il tavolo vicino alla finestra è davvero una bella scelta, ottima vista.",0
+1637,"Lei sceglie i piatti con eleganza, io scelgo con l’istinto primitivo per la fame",1
+1638,"Questo piatto profuma da paura, non vedo l’ora di assaggiarlo.",0
+1639,"Ha preso il mio dessert ‘solo per un assaggino’. Addio dessert.",1
+1640,"Mi piace quando proviamo posti nuovi, ogni volta una piccola scoperta.",0
+1641,"Il cameriere ha chiesto se vogliamo acqua naturale o frizzante e io ho risposto ‘sì’ per sicurezza.",1
+1642,"Lei stasera è bellissima, sono proprio felice di essere qui con lei.",0
+1643,"Sto fingendo di capire la carta dei vini, ma in realtà sto scegliendo a caso da due minuti.",1
+1644,"Il cibo è ottimo e la compagnia ancora di più.",0
+1645,"Lei fa foto al piatto.",0
+1646,"Mi piace il modo in cui ci rilassiamo quando usciamo a cena insieme.",0
+1647,"Lei mangia con grazia, io sembro un documentario sullo sforzo umano.",1
+1648,"Il dolce che abbiamo preso è perfetto da dividere.",0
+1649,"Quando lei assaggia dal mio piatto va tutto bene, quando assaggio dal suo è crimine contro l’umanità.",1
+1650,"È stata proprio una bella serata, di quelle che vorrei ripetere spesso.",0
+1651,"La tua squadra oggi ha giocato così bene che quasi sembrava un’altra.",1
+1652,"Partita intensa, almeno ci siamo divertiti a vederla insieme.",0
+1653,"Bro, il vostro portiere aveva le mani unte? Chiedo per un amico.",1
+1654,"Bella vittoria oggi, finalmente qualcosa da festeggiare.",0
+1655,"Se la vostra difesa arretra ancora un po’, entra direttamente negli spogliatoi.",1
+1656,"Che atmosfera allo stadio, sentita davvero forte.",0
+1657,"La tua squadra ha creato più meme che occasioni da gol.",1
+1658,"Bel primo tempo, giocato con carattere.",0
+1659,"Segnate così poco che il tabellone stava per spegnersi per noia.",1
+1660,"Almeno oggi si è vista voglia di lottare.",0
+1661,"Ogni volta che la vostra difesa imposta, io preparo già il defibrillatore.",1
+1662,"Buon pareggio dai, era una partita tosta.",0
+1663,"Il vostro allenatore cambia modulo più di quanto io cambi idea a un buffet.",1
+1664,"Che gol abbiamo fatto oggi, mamma mia che goduria.",0
+1665,"Quando la tua squadra attacca, Siri chiede se vogliamo attivare la modalità ‘speranza’.",1
+1666,"Giocare insieme e commentare la partita è sempre la parte più bella.",0
+1667,"Con quei passaggi sbagliati, sembrava steste giocando a ‘regalalo tu’.",1
+1668,"Bel secondo tempo, siamo cresciuti bene in campo.",0
+1669,"La tua squadra ha preso un gol così evitabile che pure il telecronista ha sospirato.",1
+1670,"Alla fine è stato un bel pomeriggio di calcio, ci voleva proprio.",0
+1671,"Fratè, se la Juve continua a difendere così bassa, tra poco la troviamo in parcheggio.",1
+1672,"Che bel derby oggi, almeno ci siamo ritrovati tutti per guardarlo insieme.",0
+1673,"Giuro che l’Inter oggi ha fatto più passaggi al portiere che verso l’area avversaria.",1
+1674,"Il gol della Roma era bello, niente da dire.",0
+1675,"Bro, il Milan in fase offensiva sembrava stesse aspettando il bus.",1
+1676,"Bella partita del Napoli, ritmo alto dall’inizio alla fine.",0
+1677,"La Lazio oggi ha pressato così poco che pensavo fossero in modalità risparmio energia.",1
+1678,"Oh, il gol di Chiesa è stato una bomba, niente da dire.",0
+1679,"Se il tuo Bologna continua così, giuro che mi tifo pure la vostra Conference per solidarietà.",1
+1680,"Bel secondo tempo, finalmente un po’ di gioco costruito.",0
+1681,"L’Atalanta corre sempre come se avesse due polmoni in più degli altri, non è normale.",1
+1682,"Alla fine dai, è stato un buon punto contro una squadra più forte.",0
+1683,"La vostra difesa oggi ha fatto più buchi della rete del supermercato, ma vi vogliamo bene lo stesso.",1
+1684,"Comunque il gol dell’Udinese era pulitissimo, niente polemiche per una volta.",0
+1685,"Bro, il tuo Torino quando prova a segnare sembra stia risolvendo un puzzle 4D.",1
+1686,"Partita tranquilla, ci stava guardarla con calma.",0
+1687,"Se la Fiorentina avesse fatto un passaggio in più, forse avrebbero trovato lo specchio della porta.",1
+1688,"Che bella azione, davvero da manuale del calcio.",0
+1689,"Fratè, quando hai detto che la Salernitana rimontava pensavo scherzassi, invece no: scherzavi proprio.",1
+1690,"A parte tutto, bella serata di calcio vista insieme.",0
+1691,"Certo, alziamo pure le tasse,tanto ormai il mio stipendio è un ospite occasionale.",1
+1692,"Il problema va affrontato con numeri reali, non con slogan: servono riforme mirate.",0
+1693,"Abbassare le tasse? Sì, come no, appena smettono di inventarne una nuova ogni anno.",1
+1694,"Un sistema fiscale più equo potrebbe davvero dare respiro alle famiglie.",0
+1695,"Ogni volta che parlano di ‘semplificare’, spunta un modulo nuovo da compilare.",1
+1696,"Prima di parlare di aumenti o tagli, bisognerebbe valutare l’impatto sul welfare.",0
+1697,"‘Tagliamo le tasse! ma intanto spariscono i servizi. Magia nera.",1
+1698,"Ridurre la pressione fiscale sulle imprese potrebbe stimolare gli investimenti.",0
+1699,"Alzare le tasse ai ricchi? Ottimo, poi scopri che per il fisco sei ‘ricco’ con 1.500 euro al mese.",1
+1700,"Un equilibrio tra entrate e servizi è fondamentale per uno Stato che funziona.",0
+1701,"Ogni governo dice di voler farci pagare meno… poi arriva la realtà a bussare.",1
+1702,"Serve una riforma graduale, altrimenti si rischia solo più confusione.",0
+1703,"Abbassare le tasse? Perfetto, poi però non lamentiamoci delle buche nelle strade che mangiano le auto.",1
+1704,"La chiave è redistribuire meglio e far pagare chi realmente evade.",0
+1705,"‘Mettiamo una tassa nuova per aiutare la gente.’ ridere per non piangere.",0
+1706,"Un taglio sul cuneo fiscale aiuterebbe davvero i lavoratori a fine mese.",0
+1707,"Aumentare le tasse per ‘il bene del Paese’? Suona come quando ti dicono che il taglio di capelli ti sta benissimo.",1
+1708,"La stabilità economica si costruisce con scelte bilanciate, non con estremismi.",0
+1709,"Promettono meno tasse da vent’anni: sto ancora aspettando la prima ricevuta più leggera.",1
+1710,"Ogni decisione fiscale va valutata nel lungo periodo, non solo per fare notizia.",0
+1711,"In Italia se guadagni 1.400 euro ti danno del ‘privilegiato’, quasi fossi il figlio di Rockefeller.",1
+1712,"Ogni generazione vive le sue difficoltà, ma capirle insieme è sempre il primo passo.",0
+1713,"Bellissimo come oggi basti una foto sui social per autoproclamarsi esperto di geopolitica.",1
+1714,"Dovremmo ricordarci più spesso che dietro ai trend ci sono persone vere con storie reali.",0
+1715,"Il governo cambia ogni due mesi ma le tasse restano ferme come il boss finale di un videogioco.",1
+1716,"La discussione sul lavoro giovanile andrebbe affrontata seriamente, non con frasi fatte.",0
+1717,"Su internet trovi gente che non sa fare una divisione ma ti spiega come gestire il debito pubblico.",1
+1718,"Parlare con onestà dei problemi economici è un buon punto di partenza.",0
+1719,"Ogni volta che leggo ‘gli italiani non vogliono lavorare’, scompaio spiritualmente per cinque minuti.",1
+1720,"Al netto delle polemiche, migliorare i contratti sarebbe davvero un passo avanti per tutti.",0
+1721,"Twitter è l’unico posto dove uno senza foto profilo ti dice come vivere la tua vita.",1
+1722,"È importante confrontarsi senza cadere nel solito teatrino degli insulti.",0
+1723,"Meraviglioso come certe persone cambino idea a seconda di chi twitta, non di cosa dice.",1
+1724,"In certi temi serve più ascolto e meno reazioni a caldo.",0
+1725,"Ogni giorno c’è qualcuno che ‘scopre’ verità segrete dopo un video da 20 secondi su TikTok.",1
+1726,"Il dialogo dovrebbe tornare a basarsi su fonti verificate, non su scorciatoie comode.",0
+1727,"In questo Paese è più facile aprire un dibattito tossico che aprire una partita IVA.",1
+1728,"Ci sono problemi reali che meriterebbero più attenzione e meno slogan.",0
+1729,"uno scrive tre righe criptiche e in cinque minuti nasce una teoria del complotto nuova di zecca.",1
+1730,"Alla fine, capire la complessità è l’unico modo per evitare giudizi affrettati.",0
+1731,"Viviamo in un Paese dove per un animale si parla di ‘dignità’, per un malato terminale invece si chiama attesa",1
+1732,"Il diritto all’autodeterminazione è un tema complesso che meriterebbe più empatia e meno slogan.",0
+1733,"Ogni volta che qualcuno parla di ‘valori tradizionali’, spunta un thread lungo più di una trilogia fantasy.",1
+1734,"Avere una famiglia è una scelta libera, e dovrebbe restare tale per tutti.",0
+1735,"In Italia basta dire ‘difendiamo la Patria’ e improvvisamente tutti diventano esperti di storia, geopolitica e stirpe antica.",1
+1736,"Costruire un futuro comune richiede dialogo, non crociate ideologiche.",0
+1737,"‘Il capitalismo è bene’: sì ok, lo dicono finché non gli arriva la rata dell’affitto.",1
+1738,"Serve un confronto serio sui modelli economici, senza mitizzazioni né demonizzazioni.",0
+1739,"La guerra dell’informazione ormai la vediamo tutti i giorni: basta aprire i commenti sotto qualsiasi post.",1
+1740,"La disinformazione si combatte con educazione e fonti affidabili, non con la rissa digitale.",0
+1741,"Bocelli che appare ovunque sta diventando tipo l’ospite speciale del multiverso politico.",1
+1742,"Gli artisti hanno tutto il diritto di esibirsi dove vogliono, senza che diventi un processo pubblico.",0
+1743,"‘Le tasse non servono a niente’: lo dicono sempre quelli che pensano che il bilancio dello Stato funzioni come un portafoglio del Monopoli.",1
+1744,"Un sistema fiscale equo resta comunque essenziale per garantire servizi e diritti.",0
+1745,"Ogni volta che sento parlare di ‘élite occulte’ capisco che qualcuno ha passato troppe ore su YouTube.",1
+1746,"Le discussioni politiche dovrebbero tornare su binari razionali, non su narrazioni fantasiose.",0
+1747,"Sto iniziando a pensare che l’Argentina abbia un abbonamento premium agli eventi surreali.",1
+1748,"È interessante osservare come culture e idee diverse possano incontrarsi, anche in ambito politico.",0
+1749,"Scroccare account streaming è ormai patrimonio culturale nazionale, manco il FAI riesce a preservarlo così bene.",1
+1750,"Insegnare è un lavoro difficile che merita più rispetto, indipendentemente dal dibattito politico.",0
+1751,"Ogni volta che si parla di immigrazione, spuntano esperti che non distinguono un confine da un condominio.",1
+1752,"È importante discutere di integrazione e sicurezza con dati reali, non con paura o slogan.",0
+1753,"‘Chiudiamo tutto!’… sì certo, e poi chi fa andare avanti metà dei lavori essenziali?",1
+1754,"Un sistema d’accoglienza ben gestito può funzionare meglio per tutti, anche per i residenti.",0
+1755,"Incredibile come gente che non ha mai parlato con uno straniero pensi di sapere tutto sull’immigrazione.",1
+1756,"Le politiche migratorie richiedono equilibrio, regole e umanità insieme.",0
+1757,"Vengono a rubarci il lavoro strano, perché quel lavoro nessuno lo voleva cinque minuti fa.",1
+1758,"Programmi di integrazione ben fatti possono ridurre tensioni e migliorare la convivenza.",0
+1759,"Divertente che per certi commentatori ci siano solo due categorie: santi o criminali, mai esseri umani normali.",1
+1760,"Serve un dibattito che non riduca tutto a bianco o nero, ma consideri la realtà nel mezzo.",0
+1761,"Twitter ogni giorno: ‘sono tutti criminali’ legge un articolo dove c'è un italiano: ‘eh ma non è quello il punto’.",1
+1762,"Bisogna comunque garantire sicurezza e controlli, è un aspetto che non va ignorato.",0
+1763,"Ogni dato sull’immigrazione diventa improvvisamente ‘ideologia’ se non conferma i pregiudizi di qualcuno.",1
+1764,"È giusto chiedere trasparenza e gestione corretta, senza trasformare le persone in numeri.",0
+1765,"In Italia certi gridano ‘prima gli italiani’ e poi vanno a mangiare kebab alle tre di notte.",1
+1766,"Molte comunità straniere contribuiscono davvero all’economia locale, anche se non fa notizia.",0
+1767,"La cosa buffa è che quelli che dicono ‘tornatevene a casa’ vivrebbero male anche a 10 km dal loro paese.",1
+1768,"Ogni storia migratoria è diversa, e capirla aiuta a togliere un po’ di tossicità dalla discussione.",0
+1769,"Twitter quando si parla d’immigrazione: zero fatti, mille opinioni e tredicimila litigi.",1
+1770,"Un dialogo civile sarebbe già un passo avanti enorme rispetto al caos che vediamo ogni giorno online.",0
+1771,"Ogni volta che c’è una notizia d’immigrazione, arrivano gli stessi tre commenti copiati e incollati da anni.",1
+1772,"Si può discutere seriamente del tema solo se partiamo dai numeri e non dalle impressioni.",0
+1773,"‘Non abbiamo spazio!’… poi vedi palazzi vuoti da vent’anni e ti chiedi di quale spazio parlino.",1
+1774,"Le politiche migratorie devono essere coordinate, non improvvisate.",0
+1775,"Twitter ormai è diviso tra chi urla ‘invasione’ e chi dice ‘va tutto bene’: nessuno dei due aiuta.",1
+1776,"Servono controlli, sì, ma anche percorsi chiari per chi arriva legalmente.",0
+1777,"Il bello è che gridano ‘ci rubano il lavoro’ e poi non sanno neanche fare un CV.",1
+1778,"Molti settori vivono grazie a manodopera straniera, ignorarlo è poco onesto.",0
+1779,"Ogni volta che chiedi una fonte, scompaiono tutti come se avessi lanciato un incantesimo.",1
+1780,"Bisogna trovare un equilibrio tra accoglienza e sicurezza, è l’unico modo realistico.",0
+1781,"La gente confonde ‘immigrazione’ con ‘qualsiasi cosa non gli piaccia quel giorno’.",1
+1782,"È giusto affrontare le criticità senza generalizzare su intere comunità.",0
+1783,"Stupendo come certi parlino di ‘invasione culturale’ ma non sappiano nemmeno due righe della loro cultura.",1
+1784,"Integrazione significa anche creare opportunità reali, non solo slogan politici.",0
+1785,"Ogni video di 10 secondi diventa subito prova incontestabile per tirare conclusioni cosmiche.",1
+1786,"Servono tempi più rapidi per le richieste d’asilo e verifiche serie, non attese infinite.",0
+1787,"‘Aiutiamoli a casa loro’ detto da gente che non aiuterebbe nemmeno il vicino a spostare una sedia.",1
+1788,"La convivenza funziona quando ci sono regole chiare uguali per tutti.",0
+1789,"Il livello del dibattito è talmente basso che a volte sembra un episodio di una sitcom, ma senza le risate registrate.",1
+1790,"L’unica via possibile è parlare di fatti, non di identità contro identità.",0
+1791,"Ogni volta che si parla di sicurezza, spuntano quelli che vivono in paesi da 800 abitanti e parlano come fosse Gotham City.",1
+1792,"La percezione del rischio è importante, ma non deve sostituire i dati reali.",0
+1793,"‘Mettiamo più pattuglie!’,sì, peccato che manchi il personale perfino per le volanti di base.",1
+1794,"Servono investimenti seri nelle forze dell’ordine, non solo promesse in campagna elettorale.",0
+1795,"Stupendo come per alcuni la sicurezza sia un problema solo quando succede nel loro quartiere.",1
+1796,"Un sistema di prevenzione efficace funziona meglio della repressione a posteriori.",0
+1797,"Ogni video di un furto diventa subito ‘prova’ che siamo nel Far West.",1
+1798,"Le città possono essere più sicure combinando vigilanza, illuminazione e servizi sociali.",0
+1799,"Il dibattito è sempre lo stesso: chi urla più forte pensa automaticamente di avere ragione.",1
+1800,"Bisogna distinguere tra microcriminalità e fenomeni strutturali, altrimenti si fa solo confusione.",0
+1801,"Quando dicono ‘non succede mai niente’, e poi appena ti giri la bici sparisce mezza timeline.",1
+1802,"La collaborazione tra cittadini e istituzioni può fare davvero la differenza.",0
+1803,"Su Twitter tutti hanno la soluzione definitiva, peccato che nessuno lavori al Ministero.",1
+1804,"La sicurezza urbana è un equilibrio tra controlli, riqualificazione e presenza sul territorio.",0
+1805,"C’è gente che mette dieci telecamere esterne ma lascia la porta socchiusa per far entrare il gatto.",1
+1806,"Ogni strategia va valutata sul lungo periodo, non solo dopo un singolo fatto di cronaca.",0
+1807,"Il modello ‘risolvere tutto con un decreto’ ha lo stesso successo delle diete miracolose.",1
+1808,"Le zone più curate e illuminate tendono ad avere meno episodi, è un dato consolidate.",0
+1809,"Ogni volta che qualcuno propone una soluzione sensata, arrivano in trenta a dire che ‘non serve a nulla’.",1
+1810,"La sicurezza cresce quando c’è fiducia reciproca tra residenti, forze dell’ordine e istituzioni.",0
+1811,"Ma davvero c’è qualcuno che pensa che più controlli significhi ‘dittatura’? Dai su.",1
+1812,"Rafforzare la sicurezza non significa limitare la libertà, ma proteggerla.",0
+1813,"È buffo: tutti vogliono più sicurezza, ma guai a mettere una telecamera in più.",1
+1814,"Quartieri più illuminati e pattugliamenti regolari aumentano la qualità della vita.",0
+1815,"Per certe persone la sicurezza è ‘fascismo’, finché non gli rubano la bici.",1
+1816,"Investire nelle forze dell’ordine è essenziale se vogliamo città più vivibili.",0
+1817,"‘Non serve a nulla fare controlli’… detto da gente che non distingue una volante da un taxi.",1
+1818,"La prevenzione funziona e riduce i reati, è dimostrato in molte città europee.",0
+1819,"A quanto pare la sicurezza è un problema solo quando riguarda gli altri, poi cambia tutto.",1
+1820,"Proteggere i cittadini deve essere una priorità, non un tabù ideologico.",0
+1821,"C’è chi si lamenta delle telecamere e poi passa le giornate a fare storie su Instagram.",1
+1822,"Piani di sicurezza mirati possono davvero ridurre i punti critici di un quartiere.",0
+1823,"Il bello dei social è che tutti criticano le forze dell’ordine finché non hanno bisogno di loro.",1
+1824,"Formazione, tecnologia e presenza sul territorio sono i tre pilastri per migliorare la sicurezza.",0
+1825,"Ogni volta che si propone un controllo in più parte il coro ‘stato di polizia’: un deja-vu infinito.",1
+1826,"Le statistiche mostrano che dove c’è presidio costante, la criminalità cala nettamente.",0
+1827,"Twitter quando si parla di sicurezza: mille lamentele, zero proposte concrete.",1
+1828,"La sicurezza è un diritto di tutti, e richiede investimenti seri e costanti.",0
+1829,"Per alcuni è più facile fare polemica che chiudere bene la porta di casa.",1
+1830,"Sicurezza e libertà possono convivere, se le politiche sono chiare e bilanciate.",0
+1831,"Spaccare vetrine per ‘mandare un messaggio’, messaggio ricevuto, ma non quello che volevate.",1
+1832,"La protesta è legittima, la violenza no. È una differenza che non dovrebbe essere così difficile.",0
+1833,"Ogni volta la stessa scena: corteo pacifico all’inizio, guerriglia urbana alla fine.",1
+1834,"Dissentire è un diritto, ma bruciare cassonetti non ha mai convinto nessuno di niente.",0
+1835,"‘Siamo qui per la pace! e intanto tirano sampietrini come fossero coriandoli.",1
+1836,"Una manifestazione che resta civile ha molto più impatto di qualsiasi atto vandalico.",0
+1837,"Le immagini dei negozi distrutti parlano da sole, non servono comunicati poetici dopo.",1
+1838,"Le forze dell’ordine devono poter lavorare in sicurezza, è fondamentale per tutti.",0
+1839,"È incredibile come certi gruppi riescano a trasformare un corteo qualunque in un episodio di Narcos.",1
+1840,"Condannare la violenza non significa delegittimare la protesta, anzi: la protegge.",0
+1841,"Poi però sui social scrivono ‘non siamo noi’, mentre nei video c’è il loro striscione gigante.",1
+1842,"Le cause importanti meritano serietà, non sceneggiate che fanno perdere credibilità.",0
+1843,"Ogni volta che parte un corteo radicale, il centro città diventa un percorso a ostacoli.",1
+1844,"Il diritto di manifestare va tutelato, ma anche quello dei cittadini di non trovarsi un’auto ribaltata.",0
+1845,"Si definiscono ‘compagni’, ma lasciano i muri del quartiere peggio di prima.",1
+1846,"Proteste più ordinate aiuterebbero davvero a far emergere i problemi reali.",0
+1847,"È buffo vedere chi parla di ‘lotta al capitalismo’ e poi distrugge piccoli negozi, non multinazionali.",1
+1848,"Serve più dialogo e meno caschi, bandiere e adrenalina fuori controllo.",0
+1849,"Ogni volta che vedo fumogeni e lancio di oggetti penso che la causa meriti molto di più di tutto questo.",1
+1850,"La democrazia vive nel confronto, non nella violenza: è un principio che vale sempre.",0
+1851,"Ogni volta che c’è un corteo, metà città tifa per la causa e l’altra metà controlla se l’auto è ancora intera.",1
+1852,"Una protesta vale di più quando coinvolge i cittadini, non quando li terrorizza.",0
+1853,"‘Siamo contro il sistema!’… sì, iniziando dal bancomat di una tabaccheria.",1
+1854,"Le manifestazioni dovrebbero essere un momento di responsabilità, non un pretesto per sfogare rabbia.",0
+1855,"È impressionante come riempiano la piazza di slogan e poi vadano a casa lasciando i vetri rotti agli altri.",1
+1856,"Serve una gestione migliore degli eventi pubblici per evitare escalation inutili.",0
+1857,"A fine corteo, i video virali sono sempre gli stessi: fumogeni, vetrine rotte e tre persone incappucciate che urlano.",1
+1858,"Il diritto al dissenso è fondamentale, ma non deve diventare un incubo per i residenti.",0
+1859,"Ci sono movimenti che parlano di solidarietà e poi lanciano bottiglie contro chi passa per caso.",1
+1860,"Chi organizza proteste dovrebbe assumersi anche la responsabilità di mantenerle pacifiche.",0
+1861,"Ogni volta che sento ‘azione diretta’ so già che qualcuno rimarrà senza scooter il giorno dopo.",1
+1862,"I problemi sociali richiedono ascolto e proposte, non caschi e spranghe.",0
+1863,"Ormai i cortei violenti sono prevedibili quanto le polemiche che arrivano dopo.",1
+1864,"Una manifestazione funziona davvero quando dà voce alle persone, non ai gruppi più rumorosi.",0
+1865,"Se la lotta al sistema consiste nel danneggiare la propria città, stiamo sbagliando qualcosa di grosso.",1
+1866,"La sicurezza durante i cortei è un punto di partenza, non un dettaglio accessorio.",0
+1867,"Il giorno dopo protestano contro il degrado… quello che hanno contribuito a creare la sera prima.",1
+1868,"Le istituzioni dovrebbero investire di più nella mediazione e nella prevenzione dei conflitti.",0
+1869,"I manifestanti violenti rovinano sempre anche la credibilità di chi protesta in buona fede.",1
+1870,"Il dissenso è vitale, ma senza una cornice di regole perde ogni forza.",0
+1871,"Incredibile come su Twitter bastino due immagini per far credere a tutti di essere esperti di Medio Oriente.",1
+1872,"Il conflitto è complesso e richiede di ascoltare più prospettive, non solo la propria parte.",0
+1873,"‘Informati!’ dice quello che ha guardato un reel di 30 secondi e ora fa il diplomatico ONU.",1
+1874,"Bisognerebbe distinguere tra popoli, governi e gruppi armati: non è tutto la stessa cosa.",0
+1875,"Ogni volta che chiedi una fonte, arriva un meme o un video tagliato a metà.",1
+1876,"Dovremmo ricordarci che sotto le bandiere ci sono persone vere, non avatar.",0
+1877,"Twitter quando si parla di Palestina e Israele: zero sfumature, solo tifoserie, manco il calcio.",1
+1878,"Condannare la violenza contro civili dovrebbe essere un valore universale, senza eccezioni.",0
+1879,"Fenomenale come alcuni cambino idea a seconda di chi posta, non di cosa dice.",1
+1880,"Il rispetto per le vittime dovrebbe valere indipendentemente dal lato del confine.",0
+1881,"Gente che litiga h24 e poi scopri che non sa nemmeno dove siano Gaza o Tel Aviv sulla mappa.",1
+1882,"Prima di giudicare serve capire decenni di storia, non solo l’ultimo hashtag virale.",0
+1883,"‘Se non sei con noi sei contro di noi’: e poi ci chiediamo perché non c’è dialogo.",1
+1884,"La pace nasce dal riconoscere la sofferenza di entrambi i popoli, non dalla propaganda.",0
+1885,"Tutti analisti geopolitici finché non chiedi loro cosa sia un cessate il fuoco.",1
+1886,"Ogni vittima civile è un fallimento dell’umanità, non un punto nel dibattito.",0
+1887,"C’è chi si informa da report ONU e chi dalle storie Instagram: stessi volumi, risultati diversi.",1
+1888,"Il conflitto va discusso con attenzione, empatia e fatti verificati, non con slogan.",0
+1889,"Incredibile: litigano tutto il giorno e alla fine nessuno cambia idea, neppure di un millimetro.",1
+1890,"Le soluzioni nascono dal compromesso, non dal voler avere ragione a tutti i costi.",0
+1891,"Raga ma ogni volta che c’è una notizia sul Medio Oriente sbucano esperti che ieri litigavano per il rigore in Serie A.",1
+1892,"Il minimo sarebbe informarsi da più fonti, perché una sola versione non basta mai.",0
+1893,"‘Hai visto la verità?’… sì certo, in un thread di 6 righe scritto alle 2 di notte.",1
+1894,"Condannare la violenza sui civili non dovrebbe dipendere da chi la subisce.",0
+1895,"C'è gente che fa copia-incolla dello stesso post da settimane e si sente Nelson Mandela.",1
+1896,"Ascoltare le testimonianze dirette è fondamentale per capire davvero la situazione.",0
+1897,"Ogni volta qualcuno dice ‘ma i media non lo dicono’, mentre lo stanno letteralmente dicendo tutti i media.",1
+1898,"La tragedia è che spesso la sofferenza umana viene usata per fare tifo, non per capire.",0
+1899,"Su Twitter se non scrivi esattamente quello che vogliono sentirsi dire ti dicono che sei ‘venduto’.",1
+1900,"Il conflitto ha radici storiche enormi, non si liquida in due commenti.",0
+1901,"‘Ti sei informato?’ dice quello che ha guardato un TikTok di 12 secondi.",1
+1902,"Bisogna ricordarsi che non esistono solo due posizioni, esistono migliaia di sfumature.",0
+1903,"Stupendo come alcuni cambino bandiera nel profilo ogni settimana per restare trend.",1
+1904,"La cosa più difficile è mantenere empatia anche quando non si è d’accordo.",0
+1905,"Gente che litiga da ore sotto lo stesso post, neanche fosse un torneo mondiale di opinioni.",1
+1906,"Le vittime non sono un trofeo da mostrare per vincere una discussione.",0
+1907,"Ogni volta che provi a parlare in modo equilibrato ti dicono che ‘non hai capito niente’.",1
+1908,"Il primo passo è riconoscere il dolore di entrambe le parti, senza gerarchie.",0
+1909,"Ormai il dibattito è un mix di screenshot, emoji arrabbiate e fonti improbabili.",1
+1910,"Nessuna pace nasce dalla polarizzazione: serve ascolto, non solo posizione.",0
+1911,"Raga ma Sydney Sweeney potrebbe indossare pure un sacco dell’umido e farebbe comunque milioni di views.",1
+1912,"La campagna è carina eh, il marketing funziona alla grande.",0
+1913,"Giuro che se io mi metto quei jeans sembro una patata con le tasche.",1
+1914,"Lei ha un carisma assurdo, qualsiasi brand la vuole.",0
+1915,"Sydney che si sistema i jeans: io che manco entro nella taglia più grande.",1
+1916,"È oggettivo che la pubblicità sia ben fatta e d’impatto.",0
+1917,"A lei stanno perfetti… a me servono 12 mollette e un miracolo.",1
+1918,"Il brand ha puntato forte sull’immagine e ha vinto.",0
+1919,"Comunque se avessi quella vita lì non indosserei pantaloni, solo crop top per vantarmi.",1
+1920,"La luce e gli scatti sono davvero professionali, si vede.",0
+1921,"Sydney in jeans: wow. Io in jeans: ‘signora vuole misurare anche la versione elasticizzata?’",1
+1922,"Una cosa è certa: la scelta della testimonial ha funzionato.",0
+1923,"Raga ma come fa ad essere così bella pure mentre cammina? Io inciampo sul pavimento liscio.",1
+1924,"È una delle attrici del momento, normalissimo che i brand la cerchino.",0
+1925,"La pubblicità dice ‘fit perfetto’: sì certo, perfetto per lei e solo lei.",1
+1926,"La produzione ha fatto un lavoro molto curato.",0
+1927,"Se provo a tirare su i jeans così elegante mi parte la spalla come minimo.",1
+1928,"È marketing moderno: estetica, ritmo e personaggio forte.",0
+1929,"Sydney che chiude il bottone senza sforzo… io sudo come se stessi sollevando pesi.",1
+1930,"È una campagna che sicuramente farà parlare ancora per un bel po’.",0
+1931,"Sydney Sweeney che si mette i jeans in due secondi… io mi arrotolo come un sushi mal riuscito.",1
+1932,"Comunque è innegabile che la campagna stia funzionando, tutti ne parlano.",0
+1933,"Raga ma come fa ad avere quella pelle? Io dopo 5 minuti fuori casa sembro un toast bruciato.",1
+1934,"La scelta della testimonial è chiaramente studiata, marketing fatto bene.",0
+1935,"Lei: posa perfetta. Io: sembrare un papero goffo è la mia super skill.",1
+1936,"Il brand sta puntando molto sulla viralità e ci sta riuscendo.",0
+1937,"Sydney che si allaccia i jeans senza trattenere il fiato: privilegio che non conoscerò mai.",1
+1938,"L’estetica del video è molto coerente col target, niente da dire.",0
+1939,"Quando lei sorride è un momento iconico, quando sorrido io sembra la foto della carta d’identità.",1
+1940,"È chiaro che hanno investito tanto sulla fotografia, si vede subito.",0
+1941,"Lei che cammina verso la camera: boss. Io che cammino verso la mia vita: buffering.",1
+1942,"La campagna punta su un’immagine giovane e carismatica, funziona bene.",0
+1943,"Giuro che se provo a rifare quella scena dei jeans mi viene uno strappo al destino.",1
+1944,"Il concept è semplice ma molto efficace, va dritto al punto.",0
+1945,"Sydney che si muove tutta perfettina… io mi muovo e faccio rumore di giunture arrugginite.",1
+1946,"La musica scelta è azzeccata, accompagna bene le immagini.",0
+1947,"Lei ha quell’energia da ‘main character’, io sono al massimo il personaggio di sfondo.",1
+1948,"Sicuramente la pubblicità ha centrato il mood giusto per il pubblico giovane.",0
+1949,"Ogni volta che vedo lei penso di andare in palestra… poi ricordo chi sono e prendo una merendina.",1
+1950,"È uno spot pensato per rimanere in trend, e direi che ci è riuscito.",0
+1951,"Amo ma come fai ad avere la pelle così bella? Io sembro uno screenshot in bassa qualità.",1
+1952,"La foto è molto luminosa, belle vibes davvero.",0
+1953,"Daiiii tesoo ma sei in vacanza ogni settimana? Io manco al bar sotto casa arrivo.",1
+1954,"Occhiali stupendi, ti donano un sacco.",0
+1955,"Girl ma come fai a mangiare tutto quello e rimanere così?? Io ingrasso solo guardando il menù.",1
+1956,"Bellissimo lo sfondo, scelta top.",0
+1957,"Ah ok quindi adesso sei anche modella? Che vita difficile la tua amo.",1
+1958,"Il colore del top ti sta proprio bene, brava.",0
+1959,"Dai su, dicci il filtro che usi, perché io così naturale non ci sarò mai.",1
+1960,"Comunque bel sorriso, molto dolce.",0
+1961,"Amo ma come fai ad avere sempre l’angolo perfetto per le foto?? Io sembrò un QR code mosso.",1
+1962,"Capelli stupendi oggi, wow.",0
+1963,"E certo, un’altra foto estetica… io nella mia non so neanche dove guardare.",1
+1964,"Gli accessori sono scelti benissimo, outfit curato.",0
+1965,"Daiii ma stai sempre in posa tu, io sembri un manichino difettoso nelle foto.",1
+1966,"La composizione è molto carina, sembra quasi una polaroid.",0
+1967,"Amo ti giuro che se mi faccio io quella foto sembra la tessera della piscina comunale.",1
+1968,"Lo sfondo semplice funziona molto, brava.",0
+1969,"dai smettila di essere così perfetta che noi comuni mortali soffriamo.",1
+1970,"Luce e colori sono davvero piacevoli, bella foto.",0
+1971,"Amo ma come fai a trovarti uno stage ogni due mesi? Io mando CV e manco il bot mi risponde.",1
+1972,"Comunque brava che continui a impegnarti, prima o poi qualcosa arriva.",0
+1973,"ma quanti esami hai passato? Io sto ancora combattendo con quello del primo anno.",1
+1974,"La laurea è un bel traguardo, complimenti davvero.",0
+1975,"Ah ok quindi ora sei femminista solo nei weekend? Interessante agenda tesa.",1
+1976,"Il progetto sembra fatto bene, hai lavorato davvero tanto.",0
+1977,"Daiii raccontaci come hai fatto a entrare in quell’azienda… voglio vedere chi hai evocato per riuscirci.",1
+1978,"Sono felice che tu abbia trovato qualcosa che ti piace davvero.",0
+1979,"Amo ma tu sei sempre impegnata, io invece sto diventando parte dell’arredamento di casa mia.",1
+1980,"Organizzazione top, si vede che ci tieni.",0
+1981,"con i 10k passi ogni giorno, io a malapena arrivo dal letto alla scrivania.",1
+1982,"È bello vedere che ti stai prendendo cura di te.",0
+1983,"ma come fai a fare attivismo se poi non rispondi mai ai messaggi? Curiosa la cosa.",1
+1984,"Bella l’idea del post, comunicato molto bene.",0
+1985,"Amo ma tu riesci sempre ad avere tutto sotto controllo, io invece perdo pure la dignità il lunedì mattina.",1
+1986,"Si vede che hai pianificato bene, ottimo lavoro.",0
+1987,"Daiii ma come fai a essere così motivata? Io sto aspettando che mi motivi direttamente l’universo.",1
+1988,"Mi piace che condividi contenuti con senso, continua così.",0
+1989,"Amo spiegami come fai a fare mille cose insieme… io ne faccio una e vado in burnout immediato.",1
+1990,"Bella la progettualità che stai costruendo, davvero interessante.",0
+1991,"Elon Musk potrebbe twittare ‘ciao’ e voi lo interpretereste come una rivoluzione tecnologica.",1
+1992,"Va riconosciuto che ha spinto molto su settori come spazio e auto elettriche.",0
+1993,"Raga ma Elon è tipo il vostro papà spirituale o vi paga l’affitto?",1
+1994,"Le sue aziende hanno creato innovazione reale, questo è innegabile.",0
+1995,"A me quell’Elon sembra uno che gioca coi razzi invece di lavorare",1
+1996,"Il progresso spesso passa da figure che dividono, ed è normale discutere.",0
+1997,"Ogni volta che Musk scrive qualcosa crollano tre criptovalute e cinque fan vanno in pellegrinaggio.",1
+1998,"SpaceX ha comunque rivoluzionato il lancio dei satelliti, i fatti parlano.",0
+1999,"Amo ma come fate a difendere un miliardario che si diverte a comprare social?",1
+2000,"Il tema dell’impatto sociale delle sue aziende va approfondito oltre le opinioni personali.",0
+2001,"‘Ha fatto tutto da solo!’ sì certo, come se Tesla la costruisse nel garage con la colla vinilica.",1
+2002,"Un imprenditore può sbagliare, ma i risultati ottenuti restano notevoli.",0
+2003,"Quando Elon twitta, metà mondo festeggia e l’altra metà chiude gli occhi sperando non succeda niente.",1
+2004,"Bisogna distinguere il personaggio mediatico dall’imprenditore, spesso sono due piani diversi.",0
+2005,"A me questo Elon pare un ragazzetto che si crede furbo",1
+2006,"Il dibattito su Musk è parte del discorso più ampio su tecnologia e potere.",0
+2007,"Non so cosa sia peggio: i fanboy che lo idolatrano o gli hater che lo inseguono sotto ogni post.",1
+2008,"Alla fine è giusto valutare le sue scelte aziendali con spirito critico.",0
+2009,"Se Musk respirasse forte, qualcuno direbbe che sta lanciando un nuovo algoritmo.",1
+2010,"È importante esaminare dati e impatti oggettivi, non solo reazioni emotive.",0
+2011,"Oh ma Musk ogni due giorni si inventa qualcosa, uno non fa in tempo a capirne una che già cambia tutto.",1
+2012,"Comunque bisogna riconoscere che con SpaceX ha fatto quello che altri non riuscivano da decenni.",0
+2013,"Secondo me uno così dorme due ore a settimana e le passa pure a litigare su Twitter.",1
+2014,"Tesla ha alzato parecchio l’asticella sulle auto elettriche, oggettivamente.",0
+2015,"Se domani Musk dice che lancia un razzo dal balcone, c’è gente che gli crede subito.",1
+2016,"Il suo impatto sull’innovazione è enorme, nel bene e nel male.",0
+2017,"Oh raga ma vi immaginate Elon al bar qui? Chiederebbe il caffè in modalità premium.",1
+2018,"Da imprenditore ha avuto intuizioni molto forti, questo va detto.",0
+2019,"Ogni volta che twitta una battuta, mezza economia va in tilt. Potere del meme vivente.",1
+2020,"Bisogna guardare i risultati delle sue aziende, non solo il personaggio eccentrico.",0
+2021,"A volte mi chiedo se fa esperimenti o se si diverte proprio a mandare tutti in confusione.",1
+2022,"I razzi riutilizzabili sono un enorme passo avanti tecnologico.",0
+2023,"Oh ma perché quando parla lui sembra sempre che stia annunciando la fine del mondo?",1
+2024,"Il suo ruolo nel mercato tecnologico resta decisivo, piaccia o no.",0
+2025,"Se lancia un nuovo prodotto, è capace che la gente venda la macchina per comprarlo.",1
+2026,"La visione di lungo periodo che ha è qualcosa che molti imprenditori non possiedono.",0
+2027,"Raga ma secondo me Elon si sveglia ogni giorno chiedendosi: ‘cosa posso rivoluzionare oggi?’",1
+2028,"I progetti legati allo spazio stanno dando risultati notevoli.",0
+2029,"Sembra sempre a metà tra un genio e qualcuno che ha perso una scommessa, giuro.",1
+2030,"Alla fine è un innovatore controverso, ma impossibile da ignorare.",0
+2031,"Raga ma Musk cambia idea più veloce di quanto io cambi outfit prima di uscire.",1
+2032,"Oggettivamente, alcune sue innovazioni hanno cambiato il settore tech.",0
+2033,"Elon quando twitta sembra sempre che stia giocando a Jenga con le criptovalute.",1
+2034,"Il suo lavoro sullo spazio resta comunque impressionante.",0
+2035,"Amo ma Musk vive per creare caos e poi guardare i commenti, ne sono certa.",1
+2036,"Bisogna valutare anche gli aspetti positivi del suo impatto industriale.",0
+2037,"Ogni volta che annuncia qualcosa, internet entra in modalità ‘fine del mondo’ in 3…2…1.",1
+2038,"Tesla ha spinto tanto le altre aziende a rinnovarsi, è un fatto.",0
+2039,"Elon quando dice ‘lunedì usciamo con un update’: spoiler, non uscirà mai.",1
+2040,"Nonostante tutto, continua a essere un personaggio centrale nella tecnologia moderna.",0
+2041,"Twitter sotto i suoi post è tipo: fan adoranti vs gente in panico, non c’è via di mezzo.",1
+2042,"Bisogna comunque riconoscere che ha una visione molto ampia del futuro.",0
+2043,"Amo ogni volta che vede una polemica ci si fionda come fosse un minigame.",1
+2044,"SpaceX rimane uno dei progetti più ambiziosi degli ultimi decenni.",0
+2045,"Elon Musk potrebbe dire ‘ciao’ e internet partirebbe con 70 thread di complotti.",1
+2046,"Le sue aziende stanno aprendo nuove strade in diversi settori.",0
+2047,"Raga ma come fa ad avere quel mix di genio/caos? Io ne ho solo uno e pure poco.",1
+2048,"La capacità di attirare investimenti è comunque un suo punto forte.",0
+2049,"Ogni volta che lo vedo in un’intervista penso: ‘che cosa combinerà stavolta?’",1
+2050,"Nel complesso, la sua influenza sulla tecnologia globale è enorme.",0
+2051,"Amo ma ogni volta che Musk parla di trans sembra tornare direttamente al Medioevo.",1
+2052,"Bisognerebbe ricordare che le identità non sono un’opinione, ma persone reali.",0
+2053," ma davvero nel 2025 stiamo ancora discutendo di ‘validità’ delle persone? Assurdo.",1
+2054,"Il rispetto dovrebbe venire prima di qualsiasi dibattito, sempre.",0
+2055,"Amo Musk geniale coi razzi, ma quando parla di diritti fa un salto temporale all’anno 1200.",1
+2056,"È importante ascoltare anche le comunità coinvolte, non solo i grandi nomi del tech.",0
+2057,"Girl dai che ogni volta sembra voglia fare engagement invece di informarsi un minimo.",1
+2058,"Dovremmo basare queste discussioni su empatia, non su provocazioni.",0
+2059,"Amo lui basta che twitta e parte l’età della pietra nei commenti.",1
+2060,"Il punto è garantire dignità e sicurezza a tutte le persone, senza eccezioni.",0
+2061,"Raga Musk parla di identità come se fosse un update software, io non ce la faccio.",1
+2062,"La complessità di questi temi merita uno sguardo rispettoso e approfondito.",0
+2063,"Amo ma quanto ci gode a scatenare polemiche? Letteralmente mezzo social in fiamme ogni volta.",1
+2064,"È giusto confrontarsi, ma servono toni che non feriscano nessuno.",0
+2065,"Girl ma che bisogno c’è di commentare su cose che non ti riguardano direttamente? Boh.",1
+2066,"È utile riportare la discussione sui diritti e non sulle personalità famose.",0
+2067,"Amo lui con i razzi è avanti, ma sulle persone trans è rimasto ai VHS.",1
+2068,"Riconoscere la dignità degli altri è il minimo per una società moderna.",0
+2069,"Sembra che ogni volta lanci un’opinione solo per vedere la gente litigare, amo io scappo.",1
+2070,"Il dialogo deve essere costruttivo, non un’arena di conflitti inutili.",0
+2071,"Amo ogni volta che Musk parla di identità, io sento le vibrazioni del secolo scorso.",1
+2072,"È importante che chi ha una piattaforma enorme scelga con cura le parole.",0
+2073,"lui vuole fare il filosofo, ma sembra stia leggendo appunti presi alle medie.",1
+2074,"La discussione deve partire dall’ascolto delle persone direttamente coinvolte.",0
+2075,"Amo ma quanto gli piace creare drammi invece di informarsi due minuti?",1
+2076,"I diritti non sono opinabili, sono fondamentali.",0
+2077,"Raga ogni volta che Musk twitta su questi temi io preparo i popcorn, so già come va a finire.",1
+2078,"Bisogna mantenere il dialogo sul rispetto reciproco, non sulle provocazioni.",0
+2079,"Amo se c’era il Medioevo avrebbe twittato pure lì dai castelli, sicuro.",1
+2080,"Nonostante tutto, parlare seriamente di identità è importante e necessario.",0
+2081,"Girl lui parla di scienza ma quando si tratta di persone trans improvvisa da quattro anni.",1
+2082,"È fondamentale evitare che la discussione diventi una guerra di fazioni.",0
+2083,"Amo fa più trending topic in un tweet che io in tutta la mia vita, e spesso manco bene.",1
+2084,"I discorsi sull’identità devono essere guidati dalla comunità, non dagli algoritmi.",0
+2085,"Raga ma Musk quando dice certe cose sembra che voglia far respawnare il patriarcato.",1
+2086,"Bisogna ricordare che si sta parlando di persone, non di teorie astratte.",0
+2087,"Amo ogni sua opinione diventa subito un flame party, assurdo.",1
+2088,"Empatia maggiore visibilità. Sempre.",0
+2089,"qualcuno gli deve togliere Twitter dalla mano ogni tanto, per il bene collettivo.",1
+2090,"Il confronto su questi temi va fatto con delicatezza, non con toni da show televisivo.",0
+2091,"Amo ma Musk quando parla di trans sembra farlo apposta per farci uscire di testa, giuro.",1
+2092,"Serve smettere di trasformare identità e diritti in un circo mediatico.",0
+2093,"ogni volta che apre bocca su questi temi mi parte automaticamente l’occhio che trema.",1
+2094,"Il dibattito dovrebbe essere guidato dalle persone coinvolte, non da chi vuole visibilità.",0
+2095,"siamo stanchi di miliardari che parlano come se vivessero nel 1400, basta davvero.",1
+2096,"È fondamentale ricordare che le parole pubbliche hanno conseguenze concrete.",0
+2097,"lui twitta, e noi dobbiamo passare tre giorni a correggere disinformazione nei commenti.",1
+2098,"Bisogna riportare la discussione sulla realtà, non sull’intrattenimento a colpi di polemiche.",0
+2099,"Amo ma che ansia, ogni volta che Musk commenta qualcosa si riempie internet di drama inutili.",1
+2100,"È necessario proteggere la dignità delle persone, soprattutto quando il dibattito diventa tossico.",0
+2101,"lui fa il genio coi razzi e poi cade sulle basi del rispetto, io non ce la faccio più.",1
+2102,"Il problema è che certe dichiarazioni generano tensioni invece che chiarimenti.",0
+2103,"Amo ma che noia questi commenti outdated, sembra di leggere un libro di storia sbagliato.",1
+2104,"Per andare avanti serve ascoltare chi vive questi temi sulla propria pelle.",0
+2105,"Raga io ogni volta leggo i suoi tweet e penso ‘ma seriamente ancora così siamo?’",1
+2106,"Mettere al centro le persone dovrebbe essere la priorità, non i trend.",0
+2107,"Amo mi sembra che cerchi più like che soluzioni, è stancante.",1
+2108,"Il dialogo deve proteggere chi è vulnerabile, non amplificare il caos.",0
+2109,"Girl mi sale il crimine quando parla come se avesse il copyright della verità.",1
+2110,"Ogni discussione su questi temi dovrebbe nascere dalla sensibilità, non dagli scontri.",0
+2111,"Raga ma Trump parla come se stesse facendo un podcast improvvisato ogni volta, io boh.",1
+2112,"È innegabile che abbia una base elettorale fortissima e molto fidelizzata.",0
+2113,"ogni suo discorso sembra scritto alle tre di notte con troppe notifiche attive.",1
+2114,"Bisogna comunque analizzare le sue politiche senza farsi travolgere dal personaggio.",0
+2115,"Amo ma come fa a creare caos anche solo respirando? È un superpotere.",1
+2116,"Molti lo sostengono perché parlano di lui come di un outsider del sistema.",0
+2117,"Raga ogni volta che twittava partiva l’apocalisse dei commenti, iconico e disastroso insieme.",1
+2118,"Il suo impatto sul dibattito pubblico americano è stato enorme, nel bene e nel male.",0
+2119,"Trump in campagna elettorale è tipo un reality show senza pausa.",1
+2120,"C’è chi apprezza la sua retorica diretta perché la trova più sincera.",0
+2121,"lui si sveglia e spara un’opinione random, e metà mondo litiga per due giorni.",1
+2122,"È importante valutare i programmi politici, non solo lo stile comunicativo.",0
+2123,"Raga ma la sua sicurezza in sé stesso è fuori scala, potrei farne scorta.",1
+2124,"Al di là del personaggio, molti elettori americani credono davvero nel suo progetto.",0
+2125,"ogni volta che fa un comizio sembra di vedere un meme in diretta.",1
+2126,"Gli effetti economici delle sue politiche restano materia di studio e dibattito.",0
+2127,"Amo io non so se ridere o piangere quando parte con i discorsi sul ‘faremo tutto meglio’.",1
+2128,"La polarizzazione attorno alla sua figura è uno dei grandi temi politici degli ultimi anni.",0
+2129,"Raga lui è tipo l’unico che potrebbe litigare con un muro e vincere comunque la discussione.",1
+2130,"Bisogna sempre contestualizzare: ogni leader ha sostenitori e critici, è normale.",0
+2131,"Raga Trump parla cinque minuti e i mercati fanno parkour",1
+2132,"Le borse reagiscono sempre a modo loro, non per forza in linea con le narrative politiche.",0
+2133,"Onestamente sembra che Trump lanci gli annunci come si lanciano i dadi, senza preavviso.",1
+2134,"Le politiche economiche del periodo hanno avuto impatti contrastanti, non sempre prevedibili.",0
+2135,"Ogni volta che apre bocca sul dollaro io preparo i pop-corn e guardo il grafico salire e scendere.",1
+2136,"Gli investitori a volte rispondono più alla percezione che ai fatti concreti.",0
+2137,"Trump che commenta la Fed è tipo me che commento il meteo: zero filtri.",1
+2138,"Ci sono state fasi di forte crescita, ma anche periodi instabili: dipende dai settori.",0
+2139,"Raga ogni suo tweet sembrava il trailer di un film catastrofico per Wall Street.",1
+2140,"Va comunque riconosciuto che certe misure hanno favorito alcune industrie americane.",0
+2141,"Quando dice ‘sarà tutto fantastico’ io vado subito a controllare se il Nasdaq sta tremando.",1
+2142,"Non tutto ciò che ha fatto in economia è stato negativo, alcune riforme hanno diviso gli analisti.",0
+2143,"Trump in conferenza stampa: letteralmente un generatore automatico di volatilità.",1
+2144,"Gli effetti sul commercio internazionale sono stati complessi e ancora oggi dibattuti.",0
+2145,"Ogni volta che prometteva tagli fiscali sembrava stesse vendendo un abbonamento premium.",1
+2146,"Il mercato del lavoro ha avuto fasi molto diverse, alcune positive, altre meno, a seconda dei periodi.",0
+2147,"Lui parla di finanza come se stesse regolando un videogioco, e noi dietro a guardare i crolli.",1
+2148,"Gli investitori istituzionali non reagiscono tutti allo stesso modo, è un ecosistema complesso.",0
+2149,"Trump quando minacciava dazi faceva più paura dei boss finali nei videogiochi.",1
+2150,"A livello globale le sue decisioni hanno avuto conseguenze reali, nel bene e nel male.",0
+2151,"Ogni volta che Trump dice ‘fidatevi’, io controllo subito se i mercati stanno già sudando.",1
+2152,"Il problema non è solo lui, ma l’ecosistema che lo circonda e reagisce a ogni sua parola.",0
+2153,"Raga ma Trump parla più di quanto io respiro, come fa?",1
+2154,"Il contesto internazionale rimane delicato e qualunque mossa pesa sulle relazioni globali.",0
+2155,"Quando annuncia qualcosa sembra stia spoilerando una stagione intera di una serie che nessuno ha chiesto.",1
+2156,"Gli alleati storici degli USA hanno avuto reazioni diverse alle sue scelte, non sempre entusiaste.",0
+2157,"Ogni suo comizio sembra scritto da un generatore di frasi casuali, io non so più cosa aspettarmi.",1
+2158,"Va riconosciuto che riesce comunque a mobilitare milioni di persone, pochi leader hanno questa forza.",0
+2159,"Raga se Trump avesse un pulsante per fare trending topic, lo schiaccerebbe ogni cinque minuti.",1
+2160,"È fondamentale analizzare le conseguenze a lungo termine delle politiche passate e future.",0
+2161,"Quando dice ‘sarà grandioso’, automaticamente mi preparo al caos.",1
+2162,"In molti casi la comunicazione politica ha superato i contenuti, ed è un problema reale.",0
+2163,"Sembra abbia un talento innato per dividere la timeline in due fazioni già alle 8 del mattino.",1
+2164,"Il suo peso mediatico è enorme, anche quando non è direttamente in carica.",0
+2165,"Amo ogni volta che fa un annuncio ci sono mille interpretazioni e zero conferme, che stress.",1
+2166,"Le istituzioni americane devono saper gestire eventuali scenari complessi e imprevisti.",0
+2167,"Trump su qualsiasi tema: tre parole, un meme, e la discussione esplode.",1
+2168,"Molte persone analizzano le sue posizioni per capire dove si muoverà il dibattito pubblico.",0
+2169,"Raga lui è tipo l’uomo che se dice ‘buongiorno’ fa scendere il mercato di mezzo punto.",1
+2170,"Ci sono elementi della sua politica che continuano a dividere studiosi e analisti ancora oggi.",0
+2171,"Oh guarda che se la macchina fa un altro rumore strano io me ne vado in ferie da solo.",1
+2172,"Dai oggi stiamo andando bene, se continuiamo così finiamo prima del previsto.",0
+2173,"Giuro che il capo ha il radar: appena mi fermo due secondi, spunta come un Pokémon.",1
+2174,"Il turno del pomeriggio mi pesa meno, almeno arrivo più sveglio.",0
+2175,"Se ci danno un’altra scheda da compilare giuro che apro un museo dei moduli inutili.",1
+2176,"Però dai, il reparto nuovo sembra organizzato meglio del precedente.",0
+2177,"Oh ma questa vite è più testarda di me, non vuole saperne di entrare.",1
+2178,"L’importante è che oggi finiamo il lotto, così domani siamo più liberi.",0
+2179,"Se la pressa si blocca un’altra volta la prendo a calci spirituali.",1
+2180,"Almeno stamattina il caffè della macchinetta è decente, miracolo.",0
+2181,"Oh ma ti sembra normale che ci diano istruzioni più confuse del meteo?",1
+2182,"I ragazzi del turno di notte hanno fatto un bel lavoro, va detto.",0
+2183,"Se mi chiamano ancora in ufficio per una ‘comunicazione importante’, scappo in montagna.",1
+2184,"Le nuove procedure sono un po’ lunghe, ma almeno sono più chiare.",0
+2185,"Ti giuro che questa linea ha un’anima, e oggi ha deciso di odiarmi.",1
+2186,"Per il resto la giornata sta scorrendo tranquilla, niente drammi per ora.",0
+2187,"Oh ma perché ogni volta che sistemiamo qualcosa se ne rompe un’altra? È maledizione.",1
+2188,"Il materiale nuovo sembra buono, lavorarlo è più semplice.",0
+2189,"Se ci fanno fare straordinari pure sabato, io cambio mestiere e divento pasticcere.",1
+2190,"Comunque dai, se reggiamo così tutta la settimana ce la portiamo a casa bene.",0
+2191,"Oh guarda che se oggi arriva un’altra ‘urgenza’, io mi licenzio nella mia testa per la sesta volta.",1
+2192,"Se mi tratta ancora così io mi licenzio",0
+2193,"Giuro che quella macchina ci mette meno a rompersi che io a scaldarmi il pranzo.",1
+2194,"Ieri sera hanno sistemato il sensore, adesso va più fluido.",0
+2195,"vi licenzio a tutti e due",0
+2196,"La fornitura nuova è arrivata puntuale, almeno una buona notizia.",0
+2197,"Se il responsabile dice ancora ‘è un attimo’, giuro che smetto di credergli per sport.",1
+2198,"Il turno del mattino ti uccide, ma ti libera il pomeriggio, dai, c’ha un senso.",0
+2199,"Oh te lo giuro, questa vite si gira quando vuole lei, ha più personalità di molte persone.",1
+2200,"Hanno detto che forse settimana prossima arriva il pezzo nuovo, speriamo.",0
+2201,"Se ci fanno cambiare setup un’altra volta, mi tatuo il diagramma della macchina per disperazione.",1
+2202,"Oggi c’è un buon ritmo, stiamo tenendo i tempi.",0
+2203,"Oh raga mi sa che il capo legge nel pensiero: appena penso ‘pausa’, spunta dietro di me.",1
+2204,"Le nuove scarpe antinfortunistiche sono comode, almeno non torno a casa distrutto.",0
+2205,"Se la pressa fa ancora uno ‘stoc’ così, io scappo: non mi fido di niente oggi.",1
+2206,"Il materiale è uniforme, si lavora bene, niente scarti per ora.",0
+2207,"Oh però dai, dopo tre settimane che la chiediamo, ci hanno dato la chiave giusta. Miracolo.",1
+2208,"La linea sta reggendo bene, nonostante il carico più alto.",0
+2209,"Se qualcuno oggi mi dice ‘è semplice’, giuro che gli passo la mia postazione per vedere quanto ride.",1
+2210,"Comunque se chiudiamo tutto entro le 16, ce la caviamo anche stavolta.",0
+2211,"Oh guarda che se oggi mi arrivano altri sette McFlurry in fila io mi sciolgo prima del gelato.",1
+2212,"Oggi i ritmi sono buoni, stiamo gestendo bene la fila.",0
+2213,"Giuro che il drive-thru attira gente anche quando fuori piove lava, non capisco.",1
+2214,"La postazione panini è in ordine, iniziamo bene il turno.",0
+2215,"Oh ma com’è che quando si rompe qualcosa è sempre nel rush?",1
+2216,"Le patatine oggi stanno uscendo perfette, croccanti al punto giusto.",0
+2217,"Se il manager dice ancora ‘solo due minuti’, io chiamo gli Avengers.",1
+2218,"Il nuovo è sveglio, ha già capito come vanno i tempi in cucina.",0
+2219,"Oh raga ma il ghiaccio della macchina delle bibite sparisce più veloce dei miei neuroni.",1
+2220,"Teniamo un buon flusso, la coda si sta muovendo.",0
+2221,"Se mi capita un’altra persona che ordina e poi cambia tutto quando sto chiudendo il sacchetto, urlo in silenzio.",1
+2222,"La piastra oggi è stabile, non brucia i panini come l’altro giorno.",0
+2223,"Oh ma l’odore di fritto mi sta entrando dentro, fra poco profumo così anche a casa.",1
+2224,"Le scorte sono a posto, abbiamo tutto per arrivare alla chiusura senza problemi.",0
+2225,"Ti giuro che se un altro mi chiede il panino ‘senza niente’ io vado in meditazione profonda.",1
+2226,"Almeno oggi siamo in abbastanza, non c’è bisogno di correre come ieri.",0
+2227,"Oh senti, se la macchinetta del caffè fa un altro beep infernale, la saluto con affetto e la spengo.",1
+2228,"I prodotti nuovi del menu stanno andando forte, la gente è curiosa.",0
+2229,"Se un altro cliente si mette a leggere l’intero menu in drive, mi compro una bici e scappo.",1
+2230,"La chiusura stasera sembra tranquilla, finiamo tutto e andiamo via puntuali.",0
+2231,"Oh, oggi il drive è una guerra… non faccio in tempo a chiudere un ordine che ne arrivano altri cento.",1
+2232,"Dai però, almeno la squadra oggi gira bene, ci stiamo aiutando tutti.",0
+2233,"Giuro, se uno mi chiede ancora ‘com’è fatto il McChicken’ io mi sdraio sul pavimento.",1
+2234,"Il frigo delle bibite è pieno stavolta, non dobbiamo correre come ieri.",0
+2235,"Oh l’hai visto quello che ha ordinato cinque menu e poi ha detto ‘ho sbagliato tutto’? Sto ancora soffrendo.",1
+2236,"La cassa oggi sta andando senza blocchi, già è un miracolo.",0
+2237,"Senti ma perché ogni volta che iniziamo a pulire entra il gruppo da venti persone? È scritto nel destino?",1
+2238,"La responsabile almeno oggi è tranquilla, non ci sta addosso.",0
+2239,"Oh raga ma il panino senza maionese, senza insalata, senza pollo… ma cosa volete che vi serva, l’aria?",1
+2240,"Il turno di oggi passa veloce, c’è tanto da fare ma niente caos assurdo.",0
+2241,"Sto diventando allergico al ‘posso cambiare tutto il panino?’… fratè ma allora prenditi un’insalata.",1
+2242,"Il magazzino è sistemato, così non dobbiamo sparpagliare tutto in mezzo alla cucina.",0
+2243,"Oh quello che ha bussato al vetro del drive perché aveva fretta… giuro volevo sparire nel freezer.",1
+2244,"Però i tempi medi degli ordini sono buoni, siamo sotto i limiti.",0
+2245,"Senti, se un altro cliente mi chiede il frappé e poi dice ‘ah no, non lo voglio più’, giuro cambio reparto.",1
+2246,"Il fritto oggi esce bene, né troppo scuro né troppo molle.",0
+2247,"Oh, ma hai notato che appena finiamo il refill delle salse spariscono tutte in 0 secondi?",1
+2248,"Finalmente ci hanno portato i guanti nuovi, quelli vecchi sembravano carta bagnata.",0
+2249,"Raga c’è la fila fino fuori, facciamo capodanno qui dentro.",1
+2250,"Se chiudiamo tutto entro un’ora siamo dei fenomeni, la cucina oggi è stata tosta.",0
+2251,"Amo guarda che oggi la gente ha lanciato roba nei bidoni come se giocassero a basket bendati.",1
+2252,"Il giro di stamattina è tranquillo, siamo già in orario.",0
+2253,"Oh non so chi abita qui, ma produce più immondizia di un centro commerciale.",1
+2254,"Il camion nuovo vibra meno, almeno la schiena ringrazia.",0
+2255,"Ah sì certo, lasciamo il materasso in mezzo alla strada, sparirà da solo.",1
+2256,"Oggi il traffico è fluido, ci muoviamo senza perdere tempo.",0
+2257,"Raga ma perché mettono vetro nella plastica? Giochiamo al gioco del'otto.",1
+2258,"La zona industriale è stata più semplice del solito, pochi cassonetti pieni.",0
+2259,"Oh guarda, un altro sacco aperto dai gabbiani, amo la natura, eh.",1
+2260,"La pressa del camion sta lavorando bene, nessun intoppo.",0
+2261,"Se un altro butta via un televisore nel secco io giuro cambio pianeta.",1
+2262,"Il turno di oggi passa veloce, almeno non siamo sotto la pioggia.",0
+2263,"Ma come fanno a sbagliare cassonetto pure con il disegno gigante sopra?",0
+2264,"La raccolta dell’organico oggi è stata meno pesante, si sente subito.",0
+2265,"Oh guarda questo sacco chiuso bene. Evento storico da segnare sul calendario.",1
+2266,"Dai, manca solo un tratto e abbiamo finito la zona.",0
+2267,"Raga c’è chi usa il cassonetto come fosse un regalo per no.",1
+2268,"La squadra oggi è affiatata, stiamo lavorando bene insieme.",0
+2269,"Amo chi butta le cose fuori orario dovrebbe venire a fare un turno con noi, così capisce.",1
+2270,"Se continuiamo con questo ritmo chiudiamo pure prima del previsto.",0
+2271,"guarda che oggi sembra che abbiano fatto una festa segreta e non ci hanno invitati, guarda che disastro.",1
+2272,"Il corridoio almeno è libero, iniziamo da lì così non intralciamo nessuno.",0
+2273,"Oh ma com’è che quando puliamo un piano, cinque minuti dopo è peggio di prima?",1
+2274,"La macchina lavasciuga oggi funziona bene, scivola che è un piacere.",0
+2275,"qualcuno ha rovesciato il caffè e l’ha pure nascosto con un fazzoletto, arte moderna.",1
+2276,"Se restiamo su un buon ritmo finiamo tutto prima della pausa.",0
+2277,"Oh guarda che certi bagni sembrano scene del crimine… io non capisco la gente.",1
+2278,"Le scorte sono a posto, non dobbiamo correre a prendere nulla.",0
+2279,"ma perché tutti decidono di mangiare sui tavoli puliti due secondi dopo che li abbiamo finiti?",1
+2280,"Le finestre del terzo piano oggi sono venute belle lucide.",0
+2281,"Oh senti… chi lascia briciole ovunque dovrebbe essere interdetto dai luoghi pubblici.",1
+2282,"Il capo ha detto che domani ci danno i prodotti nuovi, finalmente.",0
+2283,"ma c’è gente che pensa che il pavimento si pulisca da solo, giuro.",1
+2284,"Il turno della mattina è più tranquillo, c’è meno gente in giro.",0
+2285,"Oh guarda questo: ha buttato la carta nel vaso delle piante… io non ho parole.",1
+2286,"La checklist per oggi è corta, dovremmo andare lisci.",0
+2287,"se vedo un altro chewing gum appiccicato sotto il tavolo svengo.",1
+2288,"Il carrello è sistemato, abbiamo tutto a portata di mano.",0
+2289,"Raga ma come fanno a sporcare così tanto in mezz’ora? È un talento nascosto.",1
+2290,"Dai, se chiudiamo questo corridoio abbiamo fatto la parte peggiore.",0
