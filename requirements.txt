@@ -1,4 +1,15 @@
-﻿torch
+﻿transformers
+datasets
+scikit-learn
+pandas
+numpy
+openpyxl
+
+# NOTE: PyTorch installation is system-dependent (CUDA vs CPU).
+# Use the PowerShell helper script `scripts/install_pytorch.ps1`
+# to install the correct PyTorch wheel for your system.
+# The script will run: `python -m pip install torch torchvision torchaudio --index-url <url>`
+# If you prefer automatic pip install from this file, add an appropriate torch wheel line.
 transformers
 datasets
 scikit-learn
