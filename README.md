@@ -1,25 +1,20 @@
-﻿Sarcasm Detection Project
+# Struttura file
 
-Questo repository contiene un progetto di deep learning per l'identificazione del sarcasmo in testo.
+src  
+|   
+------ Code  
+|  
+------ ModelloFinale  
+|   
+------ DataRaw  
+|  
+------ Datasets_puliti  
+  
 
-Scopo: costruire e addestrare una rete neurale che classifichi se una frase è sarcastica o meno. Il progetto è pensato anche per supportare persone nello spettro autistico che possono trovare difficile percepire segnali sociali come il sarcasmo.
+## Code
 
-Se vuoi che crei anche il repo remoto su GitHub, dimmi se vuoi che provi con la CLI `gh` o preferisci i comandi manuali.
+- PreprocessingCode.py = Estrazione e pulizia dei dataset, creazione del ALL dataset = IronITA + MC
+- OnlyCode.py = Sviluppo della classe principale (del modello) e delle sue componenti + addestramento
+- Prediction.py = Modulo per usare il modello, con nuove frasi (pesi salvati in locale)
 
-## Installazione di PyTorch
 
-PyTorch richiede wheel specifici per la CPU o per versioni diverse di CUDA. Per evitare installazioni errate su Windows, usa lo script PowerShell incluso che scarica il wheel corretto in base alla tua scelta.
-
-Esempio di utilizzo raccomandato (in PowerShell):
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-powershell -ExecutionPolicy Bypass -File .\scripts\install_pytorch.ps1
-pip install -r requirements.txt
-```
-
-Lo script ti chiederà se installare la versione CPU oppure le wheel per CUDA (es. 11.8, 12.1) oppure un URL personalizzato.
-
-Se preferisci installare manualmente, usa il selettore ufficiale:
-https://pytorch.org/get-started/locally/
